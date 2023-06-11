@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm VISHAL SINGH</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"
+- 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **React,express,Java,HTML,CSS,JAVASCRIPT,**
+- 💬 Ask me about **Express,Java,HTML,CSS,JAVASCRIPT,**
 
 - 📫 How to reach me **vs401716@gmail.com**
 
